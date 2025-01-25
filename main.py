@@ -4,12 +4,6 @@ from ipycanvas import Canvas
 import random
 import asyncio
 
-
-from ipycanvas import Canvas
-import ipywidgets as widgets
-import random
-import asyncio
-
 # Game dimensions
 WIDTH, HEIGHT = 800, 600
 
